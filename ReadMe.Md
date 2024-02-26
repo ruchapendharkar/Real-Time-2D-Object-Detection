@@ -7,7 +7,7 @@ The goal of this project is to have the system identify a specified set of objec
 
 ## Features
 
-- **Real-time Video Capture:**The system captures video in real-time using the camera from a mobile phone. Make sure to update the IP address in the code to run
+- **Real-time Video Capture**: The system captures video in real-time using the camera from a mobile phone. Make sure to update the IP address in the code to run
 
 - **Image Processing**: The video is converted thresholded to create a binary image. The binary image is then cleaned for processing
 
